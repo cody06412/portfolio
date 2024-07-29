@@ -7,7 +7,7 @@ export const SocialLinks = (props) => {
     
     return (
         <div className="h-[100px] bg-grayscale-950 flex justify-center items-center gap-3 p-6">
-            <a href={passdata.github} target="_blank" rel="noreferrer">
+            {/* <a href={passdata.github} target="_blank" rel="noreferrer">
                 <FontAwesomeIcon
                     className="h-[30px] text-3xl text-grayscale-50 hover:text-sky-800 hover:scale-[1.1] transition-all duration-75"
                     icon={faGithub}
@@ -19,7 +19,7 @@ export const SocialLinks = (props) => {
                     icon={faDiscord}
                 />
             </a>
-            {/* <a href={passdata.discord} target="_blank">
+            <a href={passdata.discord} target="_blank">
                 <FontAwesomeIcon
                     className="h-[30px] text-3xl text-grayscale-50 hover:text-sky-800 hover:scale-[1.1] transition-all duration-75"
                     icon={faDiscord}
