@@ -8,7 +8,7 @@ export default function Home() {
         <Layout className="">
             <SEO
                 title="Cody Portfolio"
-                description="Discover oskar portfolio, Next and Tailwind project for very simple Portfolio."
+                description="Discover cody portfolio, Next and Tailwind project for very simple Portfolio."
                 keywords="Next and Tailwind"
             />
             <Dashboard />
