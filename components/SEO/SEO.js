@@ -30,7 +30,11 @@ const SEO = ({ title, description, keywords }) => {
                 content={metaDescription}
                 key="ogdesc"
             />
-
+            <meta
+                property="og:image" 
+                content="https://www.imghost.net/ib/iqnYV8P7Ixlq879_1723770453.png"
+                alt="cody work history"
+            />
             <link
                 rel="apple-touch-icon"
                 sizes="180x180"
