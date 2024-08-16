@@ -1,7 +1,3 @@
-<div align="center">
-  <img alt="Cody Portfolio logo" src="/public/oskar.svg" width="100" />
-</div>
-
 <h1 align="center">
   Cody Portfolio - landing page template 🚀
 </h1>
