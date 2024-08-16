@@ -22,13 +22,13 @@ const SEO = ({ title, description, keywords }) => {
             <meta name="keywords" content={metaKeywords} />
 
             {/* {Open Graph} */}
-            <meta property="og:url" content={siteURL} key="ogurl" />
-            <meta property="og:site_name" content={siteURL} key="ogsitename" />
-            <meta property="og:title" content={title} key="ogtitle" />
+            <meta property="og:url" content={siteURL} key="https://hansmire.vercel.app" />
+            <meta property="og:site_name" content={siteURL} key="https://hansmire.vercel.app" />
+            <meta property="og:title" content={title} key="cody" />
             <meta
                 property="og:description"
                 content={metaDescription}
-                key="ogdesc"
+                key="about cody"
             />
             <meta
                 property="og:image" 
