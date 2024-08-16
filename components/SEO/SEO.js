@@ -35,8 +35,8 @@ const SEO = ({ title, description, keywords }) => {
                 content="https://www.imghost.net/ib/iqnYV8P7Ixlq879_1723770453.png"
                 alt="cody work history"
             />
-            <meta property="og:image:height" content="530">
-            <meta property="og:image:weight" content="1110">
+            <meta property="og:image:height" content="530" />
+            <meta property="og:image:weight" content="1110" />
             <link
                 rel="apple-touch-icon"
                 sizes="180x180"
