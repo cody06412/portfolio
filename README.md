@@ -60,7 +60,7 @@ Licensed under the MIT License, Copyright © 2023
 
 ## Feedback and Suggestions
 
-If you have any suggestions/feedback, you can contact the creator, Cody Ban, via gmail [upwork.adress06@gmail.com]. Alternatively, feel free to open an issue if you find bugs or want to request new features.
+If you have any suggestions/feedback, you can contact the creator, Cody Ray, via gmail [upwork.adress06@gmail.com]. Alternatively, feel free to open an issue if you find bugs or want to request new features.
 
 ---
 
