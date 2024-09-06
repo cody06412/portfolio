@@ -1,5 +1,5 @@
 {
-    "name": "cody",
+    "name": "Cody Ray",
     "version": "0.1.0",
     "description": "Cody Portfolio - A website developed using Next and Tailwind CSS",
     "main": "index.js",
@@ -17,7 +17,7 @@
         "tailwindcss",
         "tailwind"
     ],
-    "author": "Cody Ban",
+    "author": "Cody Ray",
     "scripts": {
         "dev": "next dev",
         "build": "next build",
